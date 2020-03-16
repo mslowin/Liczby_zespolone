@@ -4,7 +4,7 @@
 using namespace std;
 
 
-
+// ZMIANA
 
 int main(int argc, char **argv)
 {
